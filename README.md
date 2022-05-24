@@ -1,2 +1,2 @@
 # mvsn
-Assessing the fit of the multivariate normal distribution
+Assessing the fit of the multivariate skew normal distribution
